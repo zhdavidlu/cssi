@@ -6,4 +6,4 @@ layout: default
 
 Hopefully I haven't broken it yet! 
 
-Reeeeeeeeeeeeeeeee!
+[a link](/_texts/new-file.md/)
