@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## My Blog Page
+# Blogs
 
-Hopefully I haven't broken it yet! 
 
-[a link](/_texts/new-file.md/)
+## March
+
+[Bob the Electron](/_texts/new-file.md/)
