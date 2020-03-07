@@ -5,7 +5,7 @@ title:               Title
 tagline:             'tagline'
 description:         'description description'
 url:                 'http://minicomp.github.io'
-baseurl:             ''
+baseurl:             'ed'
 
 # About/contact
 author:
