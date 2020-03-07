@@ -8,7 +8,7 @@ url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
 # About/contact
-author:              Bear
+author:
   name:              David Lu
   url:               
   email:             
