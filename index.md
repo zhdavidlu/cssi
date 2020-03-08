@@ -2,5 +2,5 @@
 layout: default
 ---
 
-## Rocket Propulsion for High School Students
+## Contents
 - [de Laval nozzle](/_texts/de-laval.md)
