@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Text here
+Bear posts something interesting each day for a month.
