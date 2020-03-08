@@ -1,7 +1,7 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Bear's Rocket Propulsion
+title:               Bear's Blog
 tagline:             'lawful good'
 description:         '"What can possibly go wrong?"'
 url:                 'http://minicomp.github.io'
@@ -14,7 +14,7 @@ author:
   email:             
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: red
 
 # Permalinks
 permalink: pretty
