@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Bear's Blog
-tagline:             'lawful good'
+title:               RP
+tagline:             'rocket propulsion for high school students'
 description:         '"What can possibly go wrong?"'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/rp'
 
 # About/contact
 author:
