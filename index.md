@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# Blogs
-
+#### 2020
 
 ## March
-
-[Bob the Electron](/_texts/new-file.md/)
