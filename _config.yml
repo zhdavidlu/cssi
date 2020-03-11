@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Bear
-tagline:             'Tardigrade'
-description:         '"What can possibly go wrong?"'
+title:               CSSI
+tagline:             'Canadian Student Space Initiative'
+description:         'per aspera ad astra'
 url:                 'http://minicomp.github.io'
-baseurl:             '/bear'
+baseurl:             '/cssi'
 
 # About/contact
 author:
