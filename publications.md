@@ -1,4 +1,4 @@
 --- 
 layout: page
-titie: Publications
+title: Publications
 ---
