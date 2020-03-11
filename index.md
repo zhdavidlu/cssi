@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-We are a student-run non-profit organization promoting students across Canada to participate in aerospace exploration. 
+We are a student-run non-profit organization promoting students across Canada to engage in aerospace exploration.
 
 ---
 
