@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-We are a student-run non-profit organization promoting space exploration for students across Canada. You can learn more about us [here](/cssi/about)
+We are a student-run non-profit organization promoting space exploration for students across Canada. You can learn more about us [here](/cssi/about.md).
 
 ---
 
