@@ -12,7 +12,7 @@ Additives: none
 
 #### Static fire test data
 
-Total impulse: 57 Ns  (equivalent to an "F" motor)
+Total impulse: 57 Ns ("F" motor equivalent)  
 Peak thrust: 18 N  
 Burn time: 3.1 s  
 Average thrust: 18 N
