@@ -6,8 +6,8 @@ title: TM-1B specificiations
 ### Base configuration (no additives)
 
 Propellant type: Hybrid  
-Oxidizer: Gaseous oxygen  
-Fuel: Paraffin wax  
+Oxidizer: Oxygen (gas)  
+Fuel: Paraffin wax (solid)  
 Additives: none
 
 #### Static fire test data
