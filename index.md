@@ -1,8 +1,8 @@
 ---
 layout: default
-bigimg: 
-  - "zhdavidlu.github.io/cssi/HA-1.jpeg" : "comment"
 ---
+
+![Reee!](/HA-1.jpeg){:class="img-responsive"}
 
 ## About
 
