@@ -9,7 +9,6 @@ We are a student-run non-profit organization promoting space exploration for stu
 ---
 
 ## Projects
-
 ### High-power experimental rocketry
 
 ##### Propulsion
