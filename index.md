@@ -1,7 +1,7 @@
 ---
 layout: default
 bigimg: 
-  - "/HA-1.jpeg" : "comment"
+  - "zhdavidlu.github.io/cssi/HA-1.jpeg" : "comment"
 ---
 
 ## About
