@@ -3,4 +3,16 @@ layout: post
 title: TM-1B specificiations
 ---
 
-Impulse: 55-85 Ns
+### Base configuration (no additives)
+
+Propellant type: Hybrid  
+Oxidizer: Gaseous oxygen  
+Fuel: Paraffin wax  
+Additives: none
+
+#### Static fire test data
+
+Total impulse: 57 Ns  
+Peak thrust: 18 N  
+Burn time: 3.1 s  
+Average thrust: 18 N
