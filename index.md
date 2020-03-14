@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ![Reee!](/HA-1.jpeg){:class="img-responsive"}
 
 ## About
