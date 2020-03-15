@@ -16,3 +16,5 @@ Total impulse: 57 Ns ("F" motor equivalent)
 Peak thrust: 18 N  
 Burn time: 3.1 s  
 Average thrust: 18 N
+
+![image: TM-1B during static fire](homepage-image.jpeg)
