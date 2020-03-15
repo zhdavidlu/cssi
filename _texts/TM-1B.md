@@ -17,4 +17,4 @@ Peak thrust: 18 N
 Burn time: 3.1 s  
 Average thrust: 18 N
 
-[[https://github.com/zhdavidlu/cssi/blob/master/_texts/homepage-image.jpeg]]
+![alt text](homepage-image.jpeg)
