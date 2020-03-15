@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-We are a student-run non-profit organization promoting space exploration for students across Canada. You can learn more about us [here](/more-about.md), or see some of our publications [here](/publications.md).
+We are a student-run non-profit organization promoting space exploration for students across Canada. You can learn more about us [here](more-about.md), or see some of our publications [here](publications.md).
 
 ---
 
@@ -16,4 +16,4 @@ Development of a high-power hybrid rocket started in June 2018 with the sub-scal
 
 #### Educational content
 
-Part 1 of "what is a hybrid rocket engine?" is now on [YouTube](https://www.youtube.com/watch?v=K4iIIxSS6Ww). 
+Part 1 of "what is a hybrid rocket engine?" is now on [YouTube](https://www.youtube.com/watch?v=K4iIIxSS6Ww).
