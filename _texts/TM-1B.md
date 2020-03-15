@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: default
 title: TM-1B specificiations
 ---
 
