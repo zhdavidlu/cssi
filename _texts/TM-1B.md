@@ -18,3 +18,5 @@ Burn time: 3.1 s
 Average thrust: 18 N
 
 ![image: TM-1B during static fire](homepage-image.jpeg/)
+
+![another-image](_texts/homepage-image.jpeg)
