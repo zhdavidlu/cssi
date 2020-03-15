@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: post
 title: TM-1B specificiations
 ---
 
@@ -17,4 +17,4 @@ Peak thrust: 18 N
 Burn time: 3.1 s  
 Average thrust: 18 N
 
-![alt text](homepage-image.jpeg)
+![alt text](homepage-image.jpeg/)
