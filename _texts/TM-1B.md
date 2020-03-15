@@ -17,4 +17,4 @@ Peak thrust: 18 N
 Burn time: 3.1 s  
 Average thrust: 18 N
 
-![](images/homepage-image.jpeg)
+<img src="/images/homepage-image.jpeg">
