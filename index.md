@@ -17,5 +17,3 @@ Development of a high-power hybrid rocket started in June 2018 with the sub-scal
 #### Educational content
 
 Part 1 of "what is a hybrid rocket engine?" is now on [YouTube](https://www.youtube.com/watch?v=K4iIIxSS6Ww). 
-
-test: ![image](_texts/homepage-image.jpeg)
